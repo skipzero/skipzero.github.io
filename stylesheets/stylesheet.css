@@ -71,7 +71,8 @@ header h2 {
 #downloads .btn {
   display: block;
   text-align: center;
-  margin: 0;
+  margin: 10px 0;
+  width: 25%;
 }
 
 /* Main Content
