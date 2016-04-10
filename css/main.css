@@ -1,0 +1,14 @@
+* {
+	background: #ccc;
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	padding-top: 70px;
+	background: #fff;
+}
+
+.content {
+	height: 1000px;
+}
